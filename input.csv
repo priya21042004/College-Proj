@@ -1,0 +1,247 @@
+drug1,drug2,drug3,dosage1,dosage2,dosage3,interaction_type,side_effect,stage
+Ciprofloxacin,Insulin,Omeprazole,140,771,391,Moderate,Mild Allergic Reaction,1
+Aspirin,Insulin,Azithromycin,161,235,625,Mild,Stroke,4
+Insulin,Atorvastatin,Prednisolone,83,397,489,Severe,Dizziness,1
+Doxycycline,Acetaminophen,Paracetamol,513,877,409,Mild,Stroke,4
+Insulin,Metformin,Glipizide,61,358,952,Severe,Stomach Pain,1
+Amoxicillin,Glipizide,Losartan,399,871,919,Severe,Stroke,4
+Metformin,Azithromycin,Aspirin,652,396,981,Moderate,Liver Damage,3
+Aspirin,Ciprofloxacin,Glipizide,470,638,626,Severe,Rash,1
+Prednisolone,Insulin,Doxycycline,514,307,707,Mild,Stroke,4
+Glipizide,Metformin,Warfarin,830,985,208,Mild,Fatigue,1
+Aspirin,Ibuprofen,Prednisolone,177,134,894,Mild,Mild Allergic Reaction,1
+Doxycycline,Glipizide,Amoxicillin,86,193,615,Mild,Fatigue,1
+Acetaminophen,Prednisolone,Atorvastatin,722,176,593,Moderate,Headache,1
+Lisinopril,Amoxicillin,Ciprofloxacin,116,74,67,Moderate,Cancer,4
+Prednisolone,Azithromycin,Paracetamol,383,866,81,Mild,Rash,1
+Doxycycline,Paracetamol,Metoprolol,990,990,715,Mild,Respiratory Failure,4
+Metoprolol,Prednisolone,Aspirin,525,748,537,Mild,Respiratory Failure,4
+Insulin,Metoprolol,Aspirin,110,206,673,Moderate,Headache,1
+Ibuprofen,Omeprazole,Glipizide,80,130,368,Mild,Fatigue,1
+Amoxicillin,Doxycycline,Glipizide,302,420,703,Mild,Dizziness,1
+Warfarin,Ciprofloxacin,Doxycycline,901,881,245,Mild,Mild Allergic Reaction,1
+Metformin,Metoprolol,Aspirin,551,289,971,Severe,Headache,1
+Losartan,Warfarin,Prednisolone,259,287,415,Moderate,Organ Failure,4
+Metoprolol,Lisinopril,Atorvastatin,266,547,450,Moderate,Organ Failure,4
+Ibuprofen,Acetaminophen,Lisinopril,139,301,848,Mild,Dizziness,1
+Warfarin,Ibuprofen,Doxycycline,271,238,568,Severe,Dizziness,1
+Metoprolol,Ciprofloxacin,Losartan,215,158,924,Mild,Dizziness,1
+Metformin,Ciprofloxacin,Amoxicillin,988,113,993,Severe,Stomach Pain,1
+Omeprazole,Glipizide,Warfarin,71,292,922,Severe,Severe Allergic Reaction,3
+Amoxicillin,Atorvastatin,Paracetamol,843,416,425,Mild,Respiratory Failure,4
+Warfarin,Metformin,Lisinopril,817,102,469,Mild,Headache,1
+Ibuprofen,Acetaminophen,Paracetamol,929,60,946,Severe,Heart Attack,4
+Insulin,Acetaminophen,Amoxicillin,726,561,904,Moderate,Stroke,4
+Acetaminophen,Lisinopril,Warfarin,312,158,157,Mild,Organ Failure,4
+Glipizide,Omeprazole,Losartan,260,719,106,Severe,Liver Damage,3
+Amoxicillin,Paracetamol,Doxycycline,691,921,903,Mild,Stomach Pain,1
+Metoprolol,Metformin,Losartan,860,769,795,Severe,Stomach Pain,1
+Acetaminophen,Metformin,Losartan,107,298,216,Mild,Fatigue,1
+Glipizide,Ibuprofen,Ciprofloxacin,726,581,889,Severe,Cancer,4
+Ciprofloxacin,Metformin,Omeprazole,575,558,836,Moderate,Dizziness,1
+Aspirin,Paracetamol,Glipizide,356,676,429,Severe,Nausea,1
+Insulin,Metoprolol,Azithromycin,824,219,69,Severe,Severe Allergic Reaction,3
+Doxycycline,Azithromycin,Lisinopril,546,739,818,Mild,Stroke,4
+Aspirin,Omeprazole,Losartan,137,72,253,Mild,Nausea,1
+Amoxicillin,Azithromycin,Lisinopril,153,807,962,Mild,Dizziness,1
+Losartan,Lisinopril,Warfarin,475,81,507,Moderate,Severe Allergic Reaction,3
+Amoxicillin,Prednisolone,Lisinopril,580,389,719,Moderate,Headache,1
+Insulin,Paracetamol,Ibuprofen,208,832,307,Mild,Headache,1
+Prednisolone,Doxycycline,Glipizide,123,838,790,Severe,Respiratory Failure,4
+Losartan,Metoprolol,Aspirin,416,419,317,Moderate,Severe Allergic Reaction,3
+Atorvastatin,Paracetamol,Doxycycline,63,857,359,Moderate,Nausea,1
+Insulin,Metformin,Prednisolone,745,871,529,Severe,Respiratory Failure,4
+Acetaminophen,Metoprolol,Paracetamol,472,800,243,Severe,Headache,1
+Ibuprofen,Atorvastatin,Insulin,371,760,843,Severe,Respiratory Failure,4
+Doxycycline,Metoprolol,Warfarin,733,232,330,Severe,Rash,1
+Metformin,Atorvastatin,Omeprazole,222,223,529,Mild,Dizziness,1
+Metformin,Losartan,Aspirin,235,228,577,Severe,Cancer,4
+Lisinopril,Metoprolol,Aspirin,713,647,761,Moderate,Liver Damage,3
+Omeprazole,Metoprolol,Azithromycin,249,279,750,Mild,Fatigue,1
+Doxycycline,Prednisolone,Warfarin,211,983,157,Severe,Stomach Pain,1
+Azithromycin,Paracetamol,Ibuprofen,76,782,530,Mild,Fatigue,1
+Warfarin,Omeprazole,Aspirin,982,511,783,Moderate,Severe Allergic Reaction,3
+Amoxicillin,Lisinopril,Aspirin,614,635,857,Mild,Fatigue,1
+Losartan,Metformin,Warfarin,564,471,919,Mild,Heart Attack,4
+Metformin,Azithromycin,Warfarin,960,466,417,Moderate,Liver Damage,3
+Atorvastatin,Amoxicillin,Paracetamol,363,806,165,Moderate,Kidney Damage,3
+Amoxicillin,Atorvastatin,Azithromycin,904,876,559,Mild,Fatigue,1
+Metoprolol,Ibuprofen,Warfarin,774,644,87,Moderate,Nausea,1
+Glipizide,Doxycycline,Warfarin,719,185,883,Mild,Fatigue,1
+Lisinopril,Glipizide,Warfarin,493,291,871,Severe,Headache,1
+Atorvastatin,Aspirin,Insulin,344,134,500,Moderate,Stomach Pain,1
+Atorvastatin,Losartan,Paracetamol,528,850,313,Mild,Heart Attack,4
+Amoxicillin,Metoprolol,Lisinopril,109,165,366,Mild,Organ Failure,4
+Amoxicillin,Doxycycline,Metformin,420,468,515,Mild,Heart Attack,4
+Aspirin,Metoprolol,Prednisolone,409,412,757,Moderate,Severe Allergic Reaction,3
+Ciprofloxacin,Acetaminophen,Prednisolone,431,651,476,Mild,Stroke,4
+Acetaminophen,Aspirin,Paracetamol,226,970,859,Severe,Organ Failure,4
+Omeprazole,Acetaminophen,Azithromycin,735,792,328,Mild,Heart Attack,4
+Amoxicillin,Warfarin,Paracetamol,754,820,333,Moderate,Liver Damage,3
+Ibuprofen,Atorvastatin,Paracetamol,811,879,637,Severe,Nausea,1
+Azithromycin,Prednisolone,Lisinopril,464,100,950,Mild,Cancer,4
+Ibuprofen,Warfarin,Aspirin,267,575,146,Mild,Liver Damage,3
+Warfarin,Amoxicillin,Lisinopril,939,953,421,Moderate,Liver Damage,3
+Ciprofloxacin,Atorvastatin,Lisinopril,889,796,192,Severe,Organ Failure,4
+Losartan,Insulin,Glipizide,841,980,924,Mild,Cancer,4
+Ciprofloxacin,Insulin,Aspirin,512,196,231,Severe,Respiratory Failure,4
+Atorvastatin,Metoprolol,Ciprofloxacin,93,119,335,Moderate,Mild Allergic Reaction,1
+Prednisolone,Ciprofloxacin,Warfarin,147,620,831,Moderate,Dizziness,1
+Glipizide,Atorvastatin,Metoprolol,665,458,550,Moderate,Kidney Damage,3
+Omeprazole,Doxycycline,Warfarin,309,211,933,Moderate,Rash,1
+Omeprazole,Metformin,Azithromycin,298,404,606,Moderate,Organ Failure,4
+Azithromycin,Paracetamol,Acetaminophen,347,785,714,Severe,Rash,1
+Azithromycin,Ciprofloxacin,Insulin,616,116,849,Severe,Organ Failure,4
+Omeprazole,Atorvastatin,Glipizide,288,475,779,Mild,Fatigue,1
+Ciprofloxacin,Glipizide,Paracetamol,565,544,132,Severe,Stomach Pain,1
+Ciprofloxacin,Warfarin,Metoprolol,512,465,184,Mild,Dizziness,1
+Amoxicillin,Doxycycline,Warfarin,54,101,240,Mild,Nausea,1
+Ibuprofen,Omeprazole,Amoxicillin,176,993,369,Severe,Respiratory Failure,4
+Ciprofloxacin,Insulin,Metformin,171,385,819,Moderate,Stroke,4
+Glipizide,Lisinopril,Ibuprofen,853,147,152,Severe,Stomach Pain,1
+Ibuprofen,Amoxicillin,Insulin,919,899,769,Moderate,Organ Failure,4
+Aspirin,Amoxicillin,Acetaminophen,312,827,894,Mild,Heart Attack,4
+Acetaminophen,Glipizide,Metformin,720,617,189,Moderate,Kidney Damage,3
+Glipizide,Paracetamol,Ibuprofen,595,486,707,Moderate,Kidney Damage,3
+Prednisolone,Ibuprofen,Insulin,542,559,655,Moderate,Stroke,4
+Acetaminophen,Warfarin,Ibuprofen,962,596,557,Severe,Cancer,4
+Insulin,Glipizide,Aspirin,614,397,436,Severe,Mild Allergic Reaction,1
+Ibuprofen,Warfarin,Atorvastatin,92,690,228,Moderate,Fatigue,1
+Omeprazole,Aspirin,Ciprofloxacin,882,653,786,Moderate,Stroke,4
+Acetaminophen,Glipizide,Lisinopril,818,285,424,Moderate,Stomach Pain,1
+Azithromycin,Losartan,Aspirin,277,893,951,Moderate,Stroke,4
+Omeprazole,Atorvastatin,Acetaminophen,292,265,179,Mild,Cancer,4
+Aspirin,Warfarin,Doxycycline,125,255,138,Mild,Fatigue,1
+Warfarin,Aspirin,Azithromycin,890,832,527,Mild,Heart Attack,4
+Amoxicillin,Metformin,Losartan,543,346,614,Mild,Headache,1
+Aspirin,Atorvastatin,Doxycycline,247,339,942,Mild,Stomach Pain,1
+Acetaminophen,Glipizide,Omeprazole,487,355,865,Mild,Nausea,1
+Paracetamol,Metoprolol,Azithromycin,146,624,405,Severe,Kidney Damage,3
+Prednisolone,Warfarin,Doxycycline,107,903,825,Mild,Respiratory Failure,4
+Paracetamol,Metoprolol,Prednisolone,286,263,172,Moderate,Respiratory Failure,4
+Doxycycline,Paracetamol,Azithromycin,911,792,769,Mild,Nausea,1
+Paracetamol,Omeprazole,Ciprofloxacin,560,660,449,Mild,Kidney Damage,3
+Acetaminophen,Insulin,Glipizide,517,98,433,Severe,Mild Allergic Reaction,1
+Metoprolol,Lisinopril,Metformin,702,658,485,Severe,Heart Attack,4
+Ciprofloxacin,Paracetamol,Losartan,310,102,434,Mild,Organ Failure,4
+Azithromycin,Omeprazole,Acetaminophen,241,570,996,Mild,Fatigue,1
+Doxycycline,Aspirin,Warfarin,976,233,147,Moderate,Stroke,4
+Doxycycline,Ciprofloxacin,Atorvastatin,258,962,776,Moderate,Cancer,4
+Amoxicillin,Metformin,Paracetamol,149,900,415,Mild,Stomach Pain,1
+Metformin,Paracetamol,Omeprazole,547,920,187,Mild,Stroke,4
+Doxycycline,Glipizide,Omeprazole,264,493,328,Severe,Severe Allergic Reaction,3
+Paracetamol,Doxycycline,Atorvastatin,300,141,476,Moderate,Stroke,4
+Amoxicillin,Lisinopril,Acetaminophen,237,511,974,Mild,Dizziness,1
+Warfarin,Amoxicillin,Acetaminophen,555,547,824,Severe,Fatigue,1
+Omeprazole,Ciprofloxacin,Lisinopril,287,416,457,Severe,Respiratory Failure,4
+Metoprolol,Ibuprofen,Paracetamol,880,703,830,Moderate,Severe Allergic Reaction,3
+Ciprofloxacin,Omeprazole,Glipizide,822,913,1000,Mild,Headache,1
+Ibuprofen,Atorvastatin,Acetaminophen,924,482,567,Mild,Stomach Pain,1
+Atorvastatin,Azithromycin,Prednisolone,313,594,209,Severe,Cancer,4
+Metformin,Atorvastatin,Warfarin,912,422,853,Moderate,Rash,1
+Warfarin,Losartan,Omeprazole,132,494,192,Severe,Headache,1
+Omeprazole,Glipizide,Prednisolone,560,418,366,Severe,Stomach Pain,1
+Lisinopril,Losartan,Metformin,329,582,758,Moderate,Rash,1
+Doxycycline,Paracetamol,Omeprazole,370,608,239,Mild,Heart Attack,4
+Glipizide,Insulin,Lisinopril,988,282,189,Severe,Fatigue,1
+Ciprofloxacin,Ibuprofen,Omeprazole,284,59,180,Mild,Severe Allergic Reaction,3
+Aspirin,Metformin,Omeprazole,164,832,711,Mild,Heart Attack,4
+Losartan,Metoprolol,Acetaminophen,241,547,214,Mild,Stomach Pain,1
+Warfarin,Lisinopril,Azithromycin,753,408,867,Mild,Kidney Damage,3
+Paracetamol,Azithromycin,Losartan,896,805,167,Mild,Severe Allergic Reaction,3
+Omeprazole,Acetaminophen,Azithromycin,458,448,411,Severe,Stomach Pain,1
+Ibuprofen,Prednisolone,Paracetamol,252,987,126,Moderate,Headache,1
+Azithromycin,Metoprolol,Insulin,619,402,985,Mild,Severe Allergic Reaction,3
+Insulin,Omeprazole,Metformin,673,469,759,Severe,Kidney Damage,3
+Ciprofloxacin,Paracetamol,Aspirin,685,965,674,Severe,Stroke,4
+Doxycycline,Amoxicillin,Azithromycin,200,324,996,Severe,Rash,1
+Metformin,Metoprolol,Warfarin,69,682,382,Mild,Heart Attack,4
+Metformin,Prednisolone,Doxycycline,571,750,287,Moderate,Cancer,4
+Warfarin,Ibuprofen,Losartan,903,961,280,Moderate,Cancer,4
+Prednisolone,Ibuprofen,Ciprofloxacin,197,856,881,Mild,Headache,1
+Atorvastatin,Paracetamol,Aspirin,365,844,195,Mild,Rash,1
+Amoxicillin,Atorvastatin,Insulin,592,657,152,Moderate,Kidney Damage,3
+Atorvastatin,Doxycycline,Insulin,401,667,617,Moderate,Headache,1
+Insulin,Acetaminophen,Doxycycline,887,141,547,Moderate,Severe Allergic Reaction,3
+Ciprofloxacin,Doxycycline,Lisinopril,583,730,924,Moderate,Kidney Damage,3
+Prednisolone,Ibuprofen,Amoxicillin,147,526,676,Mild,Rash,1
+Lisinopril,Prednisolone,Ibuprofen,484,201,931,Severe,Kidney Damage,3
+Omeprazole,Prednisolone,Insulin,780,970,308,Moderate,Mild Allergic Reaction,1
+Insulin,Ciprofloxacin,Glipizide,849,406,487,Moderate,Mild Allergic Reaction,1
+Aspirin,Glipizide,Lisinopril,801,267,346,Mild,Liver Damage,3
+Doxycycline,Amoxicillin,Losartan,303,170,704,Severe,Respiratory Failure,4
+Lisinopril,Losartan,Acetaminophen,245,620,85,Severe,Rash,1
+Ibuprofen,Insulin,Omeprazole,60,969,947,Mild,Nausea,1
+Aspirin,Losartan,Insulin,943,464,354,Moderate,Mild Allergic Reaction,1
+Atorvastatin,Ciprofloxacin,Aspirin,840,193,766,Mild,Respiratory Failure,4
+Paracetamol,Metoprolol,Doxycycline,739,436,87,Severe,Nausea,1
+Losartan,Metformin,Warfarin,381,611,836,Severe,Severe Allergic Reaction,3
+Insulin,Aspirin,Azithromycin,109,498,168,Mild,Stroke,4
+Aspirin,Prednisolone,Losartan,189,466,750,Moderate,Stomach Pain,1
+Ibuprofen,Atorvastatin,Prednisolone,787,813,578,Moderate,Nausea,1
+Metformin,Metoprolol,Atorvastatin,490,51,861,Mild,Mild Allergic Reaction,1
+Aspirin,Insulin,Doxycycline,792,497,940,Moderate,Mild Allergic Reaction,1
+Atorvastatin,Lisinopril,Amoxicillin,631,408,417,Mild,Dizziness,1
+Amoxicillin,Metformin,Aspirin,541,930,872,Mild,Organ Failure,4
+Aspirin,Lisinopril,Azithromycin,827,939,662,Mild,Heart Attack,4
+Paracetamol,Prednisolone,Lisinopril,890,54,54,Severe,Kidney Damage,3
+Metoprolol,Prednisolone,Losartan,658,913,219,Mild,Stomach Pain,1
+Glipizide,Losartan,Ibuprofen,640,860,835,Severe,Heart Attack,4
+Atorvastatin,Paracetamol,Doxycycline,416,715,649,Severe,Nausea,1
+Omeprazole,Ibuprofen,Aspirin,495,785,586,Mild,Mild Allergic Reaction,1
+Losartan,Metoprolol,Azithromycin,640,547,68,Mild,Headache,1
+Metformin,Ibuprofen,Metoprolol,897,126,926,Mild,Rash,1
+Aspirin,Ciprofloxacin,Glipizide,177,771,226,Mild,Cancer,4
+Metoprolol,Losartan,Lisinopril,955,637,338,Severe,Fatigue,1
+Ibuprofen,Paracetamol,Metformin,264,401,125,Severe,Rash,1
+Lisinopril,Atorvastatin,Amoxicillin,497,671,705,Moderate,Rash,1
+Doxycycline,Ciprofloxacin,Glipizide,386,665,869,Mild,Stroke,4
+Prednisolone,Warfarin,Doxycycline,824,419,583,Mild,Headache,1
+Paracetamol,Metoprolol,Azithromycin,716,696,345,Moderate,Moderate Allergic Reaction,2
+Ciprofloxacin,Lisinopril,Omeprazole,338,920,333,Moderate,Mild Kidney Issues,2
+Ibuprofen,Metoprolol,Losartan,64,221,538,Mild,Mild Kidney Issues,2
+Prednisolone,Insulin,Azithromycin,655,636,874,Mild,Breathing Difficulty,2
+Metformin,Metoprolol,Paracetamol,162,848,123,Mild,Breathing Difficulty,2
+Ciprofloxacin,Warfarin,Omeprazole,563,267,227,Severe,Liver Enzyme Elevation,2
+Insulin,Omeprazole,Atorvastatin,739,473,546,Mild,Moderate Allergic Reaction,2
+Ibuprofen,Atorvastatin,Metformin,733,643,877,Severe,Mild Kidney Issues,2
+Amoxicillin,Aspirin,Warfarin,533,382,74,Mild,Moderate Allergic Reaction,2
+Amoxicillin,Ibuprofen,Metoprolol,348,825,237,Severe,Breathing Difficulty,2
+Metoprolol,Atorvastatin,Lisinopril,869,790,302,Moderate,Moderate Allergic Reaction,2
+Warfarin,Omeprazole,Doxycycline,281,402,237,Severe,Breathing Difficulty,2
+Omeprazole,Acetaminophen,Lisinopril,942,95,575,Moderate,Moderate Allergic Reaction,2
+Losartan,Lisinopril,Amoxicillin,357,62,510,Mild,Moderate Allergic Reaction,2
+Aspirin,Metformin,Losartan,604,158,472,Mild,Breathing Difficulty,2
+Prednisolone,Atorvastatin,Azithromycin,747,652,747,Moderate,Mild Kidney Issues,2
+Losartan,Ibuprofen,Ciprofloxacin,966,888,345,Moderate,Liver Enzyme Elevation,2
+Omeprazole,Glipizide,Azithromycin,202,375,375,Mild,Mild Kidney Issues,2
+Azithromycin,Atorvastatin,Omeprazole,247,990,744,Severe,Liver Enzyme Elevation,2
+Paracetamol,Atorvastatin,Warfarin,759,174,204,Moderate,Breathing Difficulty,2
+Metoprolol,Atorvastatin,Glipizide,244,233,801,Mild,Mild Kidney Issues,2
+Acetaminophen,Ciprofloxacin,Ibuprofen,158,209,310,Moderate,Liver Enzyme Elevation,2
+Ibuprofen,Doxycycline,Atorvastatin,713,412,108,Mild,Mild Kidney Issues,2
+Paracetamol,Glipizide,Metformin,176,625,465,Mild,Moderate Allergic Reaction,2
+Azithromycin,Lisinopril,Omeprazole,420,74,356,Moderate,Breathing Difficulty,2
+Prednisolone,Azithromycin,Losartan,904,240,256,Moderate,Liver Enzyme Elevation,2
+Metoprolol,Prednisolone,Glipizide,164,515,585,Mild,Moderate Allergic Reaction,2
+Acetaminophen,Atorvastatin,Ciprofloxacin,445,368,102,Moderate,Liver Enzyme Elevation,2
+Aspirin,Ciprofloxacin,Atorvastatin,539,955,105,Mild,Moderate Allergic Reaction,2
+Prednisolone,Metoprolol,Amoxicillin,687,554,408,Moderate,Breathing Difficulty,2
+Doxycycline,Insulin,Omeprazole,138,103,713,Moderate,Mild Kidney Issues,2
+Metformin,Doxycycline,Losartan,780,576,483,Moderate,Mild Kidney Issues,2
+Ciprofloxacin,Lisinopril,Amoxicillin,617,192,273,Moderate,Moderate Allergic Reaction,2
+Lisinopril,Amoxicillin,Paracetamol,676,934,249,Severe,Breathing Difficulty,2
+Atorvastatin,Losartan,Omeprazole,707,671,536,Severe,Liver Enzyme Elevation,2
+Paracetamol,Azithromycin,Glipizide,62,531,513,Mild,Mild Kidney Issues,2
+Aspirin,Ibuprofen,Lisinopril,134,219,701,Moderate,Mild Kidney Issues,2
+Doxycycline,Insulin,Lisinopril,132,80,724,Mild,Mild Kidney Issues,2
+Metformin,Glipizide,Amoxicillin,634,385,965,Severe,Mild Kidney Issues,2
+Amoxicillin,Doxycycline,Warfarin,413,558,209,Mild,Breathing Difficulty,2
+Losartan,Prednisolone,Aspirin,410,667,262,Severe,Liver Enzyme Elevation,2
+Metformin,Ciprofloxacin,Prednisolone,968,505,244,Mild,Moderate Allergic Reaction,2
+Glipizide,Warfarin,Metoprolol,189,720,588,Mild,Moderate Allergic Reaction,2
+Acetaminophen,Atorvastatin,Aspirin,266,819,257,Severe,Liver Enzyme Elevation,2
+Omeprazole,Aspirin,Ibuprofen,181,146,879,Mild,Liver Enzyme Elevation,2
+Warfarin,Prednisolone,Ciprofloxacin,112,331,448,Mild,Mild Kidney Issues,2
+Paracetamol,Metformin,Amoxicillin,857,90,261,Severe,Breathing Difficulty,2
+Prednisolone,Paracetamol,Doxycycline,998,604,809,Mild,Liver Enzyme Elevation,2
